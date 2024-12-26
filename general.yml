@@ -1,0 +1,61 @@
+institution:
+  name: "Nome dell'Istituzione"
+  tagline: "Tag line dell'Istituzione"
+
+navigation:
+  main_links:
+    - name: "Link 1"
+      href: "#"
+      active: true
+    - name: "Link 2"
+      href="#"
+      disabled: true
+    - name: "Link 3"
+      href="#"
+    - name: "Link 4"
+      href="#"
+
+  dropdown_menu:
+    title: "Menu Dropdown"
+    links:
+      - name: "Link lista 1"
+        href: "#"
+      - name: "Link lista 2"
+        href: "#"
+      - name: "Link lista 3"
+        href: "#"
+      - name: "Link lista 4"
+        href: "#"
+
+  megamenu:
+    description: "Testo utile a fornire una descrizione dei contenuti della sezione megamenu."
+    image: "https://placehold.co/560x240/ebebeb/808080/?text=Immagine"
+    explore_link:
+      text: "Esplora la sezione megamenu"
+      href: "#"
+    columns:
+      - links:
+          - name: "Link lista 1"
+            href: "#"
+          - name: "Link lista 2"
+            href: "#"
+          - name: "Link lista 3"
+            href: "#"
+      - links:
+          - name: "Link lista 4"
+            href: "#"
+          - name: "Link lista 5"
+            href: "#"
+          - name: "Link lista 6"
+            href: "#"
+
+social_links:
+  - name: "Facebook"
+    href: "#"
+    icon: "it-facebook"
+  - name: "Github"
+    href: "#"
+    icon: "it-github"
+  - name: "Twitter"
+    href: "#"
+    icon: "it-twitter"
